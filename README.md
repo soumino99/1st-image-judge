@@ -15,8 +15,8 @@
 
 ## 使用ツール
 
-- Python 3.x
-- PyTorch or TensorFlow（チーム内で選定）
+- Python 3.13.2
+- PyTorch
 - Jupyter Notebook
 - NumPy, Pandas, Matplotlib, OpenCV
 - Git / GitHub（チーム開発）
